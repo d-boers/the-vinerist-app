@@ -44,5 +44,5 @@ I focused on adding authentication and integrating Google Map's API for location
 
 ## UI/UX Images
 
-![3](https://user-images.githubusercontent.com/71992181/125136925-8da9f300-e0c0-11eb-9d72-37212f8ede7a.png)![2](https://user-images.githubusercontent.com/71992181/125136921-8c78c600-e0c0-11eb-866e-a1be352d8b11.png)![4](https://user-images.githubusercontent.com/71992181/125136931-8f73b680-e0c0-11eb-8b67-518479241d0c.png)
+![3](https://user-images.githubusercontent.com/71992181/125136925-8da9f300-e0c0-11eb-9d72-37212f8ede7a.png)![2](https://user-images.githubusercontent.com/71992181/125136921-8c78c600-e0c0-11eb-866e-a1be352d8b11.png)![12](https://user-images.githubusercontent.com/71992181/125137601-e0d07580-e0c1-11eb-96dd-96b16b711b77.png)![4](https://user-images.githubusercontent.com/71992181/125136931-8f73b680-e0c0-11eb-8b67-518479241d0c.png)
 
