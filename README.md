@@ -1,5 +1,11 @@
 # The Vinerist
 
+The Vinerist app is deployed and can be visited [here](54.189.178.229)
+
+> The app was designed for mobile-first and is best viewed around 375 x 667px.  Repsonsive styling will come if time allows.
+> Google Maps API key may be deprecated at time of viewing.
+
+
 ## Overview
 
 The Vinerist is a React application that aims to be a social database for vintage and winery reviews in the Naramata region.  This app was built as my capstone project for the BrainStation program over a two week period.  The application itself is built with:
@@ -30,3 +36,14 @@ With the short timeline given to complete this work, I focused on the core piece
 After the initial submission of our projects we had an additional week before presentation.  During this time I decided to challenge myself and see if I could quickly iterate another version.
 
 I focused on adding authentication and integrating Google Map's API for location features.  The latest codebase reflects these changes
+
+## UI/UX Images
+
+![1](https://user-images.githubusercontent.com/71992181/125136911-88e53f00-e0c0-11eb-8169-e62156daf307.png)
+
+![2](https://user-images.githubusercontent.com/71992181/125136921-8c78c600-e0c0-11eb-866e-a1be352d8b11.png)
+
+![3](https://user-images.githubusercontent.com/71992181/125136925-8da9f300-e0c0-11eb-9d72-37212f8ede7a.png)
+
+![4](https://user-images.githubusercontent.com/71992181/125136931-8f73b680-e0c0-11eb-8b67-518479241d0c.png)
+
