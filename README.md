@@ -2,8 +2,8 @@
 
 The Vinerist app is deployed and can be visited [here](54.189.178.229)
 
-> The app was designed for mobile-first and is best viewed around 375 x 667px.  Repsonsive styling will come if time allows.
-> Google Maps API key may be deprecated at time of viewing.
+> The app was designed for mobile-first and is best viewed @ 375 x 667px or 375 x 812px.  Repsonsive styling will come if time allows.  The Google Maps API key may be deprecated at time of viewing.
+
 
 
 ## Overview
@@ -39,7 +39,7 @@ I focused on adding authentication and integrating Google Map's API for location
 
 ## UI/UX Images
 
-![1](https://user-images.githubusercontent.com/71992181/125136911-88e53f00-e0c0-11eb-8169-e62156daf307.png)
+
 
 ![2](https://user-images.githubusercontent.com/71992181/125136921-8c78c600-e0c0-11eb-866e-a1be352d8b11.png)
 
