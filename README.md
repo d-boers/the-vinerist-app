@@ -1,6 +1,6 @@
 # The Vinerist
 
-The Vinerist app is deployed and can be visited [here](http://54.189.178.229).
+The Vinerist app is deployed on an AWS EC2 instance and can be visited [here](http://54.189.178.229).
 
 > The app was designed for mobile-first and is best viewed @ 375 x 667px or 375 x 812px.  Responsive styling will come if time allows.  The Google Maps API key may be deprecated at time of viewing.
 
